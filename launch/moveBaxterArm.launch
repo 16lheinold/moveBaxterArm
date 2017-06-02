@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="moveBaxterArm" type="moveBaxterArm_node" name="rightArmPub"  output="screen" />
+</launch>
